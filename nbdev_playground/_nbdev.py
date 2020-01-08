@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"my_function": "00_core.ipynb"}
 
-modules = []
+modules = ["core.py"]
 
 doc_url = "https://Journerist.github.io/nbdev_playground/"
 
